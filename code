@@ -1,0 +1,4 @@
+hugo new site <Personal Website>
+cd <Personal Website>
+git init
+git submodule add https://github.com/ineesalmeida/almeida-cv.git themes/almeida-cv
