@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>http://localhost:4321/</link>
+    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download original template</title>
+      <link>http://localhost:4321/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>I grew up in the serene landscapes of Wisconsin, where the simplicity of rural life shaped my early years. However, my idyllic childhood was abruptly transformed by the profound tragedy of my sister&amp;rsquo;s death. This heart-wrenching loss left an indelible mark on my soul, casting a long shadow over my formative years. Struggling to navigate through the depths of grief and confusion, I found myself drifting aimlessly, burdened by the weight of my sorrow.</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:4321/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/cv/</guid>
+      <description>Professional Summary As a Research Psychologist at the Naval Submarine Medical Research Laboratory and a Doctoral Candidate in the Industrial-Organizational Psychology PhD program at the University at Albany, State University of New York, my work focuses on training evaluation, assessment development, leadership assessment, and work motivation. I currently work on applied projects to implement a leadership development program, evaluate and build person-environment fit, and develop and validate core leadership competencies. I am currently researching the influence that a mindfulness practice has in a formal training setting, how psychological need satisfaction at home and work interaction to influence work recovery, and the causal role that autonomous motivation plays in the association between psychological need satisfaction and burnout.</description>
+    </item>
+    <item>
+      <title>Hello R Markdown</title>
+      <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    <item>
+      <title>Vivamus Lacus Mauris</title>
+      <link>http://localhost:4321/post/vivamus-lacus-mauris/</link>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/vivamus-lacus-mauris/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:4321/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/subheader/</guid>
+      <description>Welcome to my personal website, a site I built with the powerful combination of R, Hugo, and GitHub. Here, you&amp;rsquo;ll find a detailed account of my journey, from my early experiences to my current professional endeavors. My curriculum vitae is available for you to explore, highlighting my skills, accomplishments, and the various roles I&amp;rsquo;ve undertaken.&#xA;This site also serves as a hub for connecting with me. You can find links to my social media profiles where I share insights and updates, as well as a direct link to email me for any inquiries or collaboration opportunities.</description>
+    </item>
+    <item>
+      <title>Application development</title>
+      <link>http://localhost:4321/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/services/service3/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom website design</title>
+      <link>http://localhost:4321/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/services/service1/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download HUGO template</title>
+      <link>http://localhost:4321/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    <item>
+      <title>SEO &amp; SEM services</title>
+      <link>http://localhost:4321/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/services/service4/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wordpress integration</title>
+      <link>http://localhost:4321/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/home/services/service2/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
