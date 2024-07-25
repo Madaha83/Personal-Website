@@ -5,23 +5,16 @@ type: about
 weight: 10
 ---
 ##### Professional Summary
-As a Research Psychologist at the Naval Submarine Medical Research Laboratory and a Doctoral Candidate in the Industrial-Organizational Psychology PhD program at the University at Albany, State University of New York, my work focuses on training evaluation, assessment development, leadership assessment, and work motivation. I currently work on applied projects to implement a leadership development program, evaluate and build person-environment fit, and develop and validate core leadership competencies. I am currently researching the influence that a mindfulness practice has in a formal training setting, how psychological need satisfaction at home and work interaction to influence work recovery, and the causal role that autonomous motivation plays in the association between psychological need satisfaction and burnout. 
+As a Research Psychologist at the Naval Submarine Medical Research Laboratory, I specialize in training evaluation, assessment development and validation, leadership assessment and development, and work motivation. My current role involves leading applied projects that implement leadership development programs, evaluate and enhance person-environment fit, and develop and validate assessments of core leadership competencies. My research focuses on the intersection of psychological need satisfaction at home and work, exploring how this interaction influences work recovery, well-being, motivation, and burnout. Through my work, I aim to apply theoretically driven, empirically tested, and data-informed practices to advance the readiness and effectiveness of the undersea warfighter community.
 
 ##### Education
 * University at Albany, State University of New York
   * Doctor of Philosophy	Industrial-Organizational Psychology ● 2023
 * University of Wisconsin Oshkosh
   * Master of Science		Experimental Psychology ● 2017
-  * Bachelor of Science	Psychology (Neuroscience Minor) ● 2014
+  * Bachelor of Science	Psychology (Magna Cum Laude; Neuroscience Minor) ● 2014
 * University of Wisconsin Fond du Lac
   * Associate of Arts and Science	Business Emphasis ● 2011 
-
-##### Honors/Awards
-Magna Cum Laude – University of Wisconsin Oshkosh	Spring 2014
-Dean’s List – University of Wisconsin Oshkosh	Spring 2014
-Honor Roll – University of Wisconsin Oshkosh	Fall, 2012, Spring 2013
-Highest Honors – University of Wisconsin Fond du Lac	Spring 2011
-Honors – University of Wisconsin Fond du Lac	Spring 2010
 
 ##### Publications
 Bizarro, A., Hernandez, D., Hanson, M. D., Peltier, C., & Handy, J. (2022). Development of the Submarine Environment Fit (SUBFIT) Assessment: Psychometric review and comparison of enlisted and officer trainees. Naval Submarine Medical Research Laboratory.
@@ -89,152 +82,171 @@ Hanson, M. D., Steinert, S., Kelso, S., Ebert, A., Lishner, D. A., Hong, P. Y., 
 
 Miller, T., Pionk, T., Kelso, S., Steinert, S., Hanson, M. D., Lishner, D. A., Hong, P. Y. & Vitacco, M. J. (2015). Psychopathic callous affect as a predictor of empathic concern and happiness toward those in need. Poster presentation at the annual convention of Midwestern Psychological Association, Chicago, IL.
 
+##### Grant Activity
+* Defense Health Program Restoral Grant ● $130,000 ● 10/01/2023 – 09/30/2025
+  * Secured funding to research the influence of psychological need satisfaction on burnout via motivation in submariners.
+  * Manage a multidisciplinary team to move the project forward while providing learning opportunities to junior researchers.
+  * Collaborate with multiple parties from various agencies to collect the support needed to successfully conduct the research.
+* Defense Health Program Sustainment Grant ● $265,000 ● 05/01/2024 – 09/30/2025
+  * Secured funding to systematically validate the use of a large-scale psychological assessment as a sailor developmental tool.
+  * Manage the planning and preparation of a multi-year study, focusing on career development and performance metrics.
+  * Develop a detailed research plan for data collection, ensuring methodological rigor and timely completion of each phase.
+* Benevolent Association Research and Creative Activity Grant ● $480 ● 01/01/2023 – 04/30/2023
+  * Secured a prestigious research grant to investigate how psychological need satisfaction interacts to improve work recovery
+  * Leveraged innovative statistical analyses to test how complex interactions between predictors influence an outcome
+  * Wrote and gave an engaging presentation on the results of the investigation to a multidisciplinary committee of experts
+
 ##### Professional Experience
-Research Psychologist – Industrial-Organizational Psychologist	U.S. Naval Submarine Force (via Leidos) ● Fall 2021-Present
-•	Conducted and provided consultation on multi-faceted, rigorous, and innovative research studies to predict and evaluate vital personnel outcomes 
-•	Composed and reviewed technical reports to assess selection and development instruments
-•	Prepared and presented research methodologies, analyses, results, and key take-aways to stakeholders across the U.S.
-Research Project Assistant	SUNY Research Foundation ● Fall 2019-Present
-•	Conducted factor analyses to establish validity evidence for a scale measuring refugee job search obstacles
-•	Performed research focused on gaining insight into refugee and immigrant job search obstacles and privacy concerns
-•	Presented the results and implications of the research to stakeholders and academic audiences across the U.S.
-Scientific and Regulatory Affairs Intern	Reynolds American, Inc. ● Summer 2020/2021
-•	Performed research centered on gaining insight into how vapor product usage changes over time
-•	Utilized SeeQ to establish and analyze complex longitudinal vaping topographical and demographic datasets
-•	Presented the results and implications of my research to organizational leaders and C-suite executives
-Student Assistant	New York State Department of Health ● 2018 - 2018 
-•	Developed a questionnaire to measure obstacles preventing submitters from moving to paperless test submissions
-•	Generated ideas to streamline the specimen testing process
-•	Developed longitudinal reports that tracked test and requsition numbers 
-•	Entered specimen, test, and demographic data into the clinical laboratories information management system
-•	Standardized the language used between laboratories
-Business Development Specialist	The Dieringer Research Group, Inc. ● 2017 - 2017
-•	Prepared PowerPoint and Word research proposals that were aimed at addressing potential clients’ key initiatives
-•	Researched and networked with outside consultants to estimate incidence, cost, and feasibility
-•	Prepared sales and opportunity reports for the business development department, sales team, and CEO
-•	Managed the new sales, opportunities, and contacts sections of the Customer Relations Management system
-•	Prepared preliminary pricing quotes for new opportunities
-Research Experience
-Independent Doctoral Dissertation	Supervised by Jason Randall, Ph.D.
-•	Performed a comprehensive literature review that bridges Self-Determination Theory, Conservation of Resources Theory, and Effort-Recovery Theory to propose novel and consequential hypotheses
-•	Developed and implemented a research study to examine how psychological need satisfaction at work and home interact to influence work recovery and well-being
-•	Conducted a linear regression and a polynomial regression with response surface analysis to test hypotheses that proposed how psychological need satisfaction at work and home interact to influence work recovery and well-being
-Student Training Evaluator	Supervised by Jason Randall, Ph.D.
-•	Collaborated with the New York State Office for People with Development Disability to improve an Informed Decision-Making training program
-•	Collected data from 37 employees who participated in an Informed Decision-Making training program and completed evaluation surveys before and after the training 
-•	Evaluated trainees’ declarative knowledge, ability to recognize superior behaviors, self-efficacy, affective and utility reactions, and motivation to transfer
-•	Co-authored an anterior Scope of Work Report and a posterior Technical Report, which summarized the research questions, project objectives, and the deliverables and reported on the results of the Informed Decision-Making training evaluation, respectively
-Graduate Research Assistant	Supervised by Jason Randall, Ph.D.
-•	Examined the factors that contribute to successful learning in an online, self-directed training setting 
-•	Supervised up to 12 researcher assistants
-•	Contributed to writing an Army Research Institute grant proposal focused on measuring informal learning in the workplace
-•	Developed the theory and design for an original research study to examine the influence of mindfulness and sham mindfulness in a formal training environment
-Graduate Research Assistant	Supervised by Ho Kwan Cheung, Ph.D.
-•	Coded 1,159 articles about family responsibilities, perceived need, commitment, competence, and warmth, and career outcomes 
-•	Developed a training to teach undergraduate research assistants how to search for journal articles
-•	Developed the theory and design for an original research study to examine the influence of mindfulness in a diversity training
-Independent Master’s Thesis	Supervised by Phan Hong, Ph.D.
-•	Developed the theory and design for an original study to examine the effects of mindfulness meditation on affect, anxiety, attention, and mindfulness
-•	Programmed the experiment using E-Prime 
-•	Produced audio recordings for mindfulness meditation and control sessions
-Graduate Research Assistant	Supervised by Lixin Jiang, Ph.D.
-•	Coded 100 articles about safety climate by industry, level, and type of safety climate measure
-•	Reported correlation coefficients and alpha levels for variables related to safety climate 
-Graduate Research Assistant	Supervised by Phan Hong, Ph.D.
-•	Examined the effects of mindfulness on affect, anxiety, stress, mindfulness, and grades in children aged 4-9
-•	Conducted on-site mindfulness activities and trained children to be mindful
-•	Presented information about the study, including the background and method, to teachers and parents 
-•	Organized and managed the everyday functioning of four sites 
-•	Supervised eight researcher assistants 
-Graduate Research Assistant	Supervised by Phan Hong, Ph.D. 
-•	Examined the effects of mindfulness on affect, anxiety, stress, mindfulness, and grades in college students
-•	Produced audio recordings for a mindfulness session and a control condition session 
-•	Organized a mindfulness and control session to be administered during the first ten minutes of each class period
-•	Managed the everyday functioning of the study with ten graduate and undergraduate researcher assistants 
-Graduate Research Assistant	Supervised by David Lishner, Ph.D.
-•	Examined the effect that positive and negative outcomes have on the relationships between callous affect, happiness, and empathic concern 
-•	Gathered data from participants by running them through a controlled situation that included deception 
-Teaching Experience
+* Research Psychologist – Industrial-Organizational Psychologist	U.S. Naval Submarine Force (via Leidos) ● Fall 2021-Present
+  * Lead the development and operation of targeted, rigorous, and innovative research to investigate and evaluate ways in which to predict and improve upon important personnel and operational outcomes.
+  * Craft comprehensive, compelling, coherent research write-ups to effectively convey objectives, methods, and outcomes.
+  * Apply evidence-based I-O psychology principles to create, validate, and implement psychological assessments that measure critical KSAOs, competencies, and leadership capabilities to address the unique requirements of the U.S. Submarine Force.
+  * Utilize statistical software (e.g., SPSS, R) to analyze complex assessment data, identifying trends and providing actionable insights and recommendations to support decision-making and policy development.
+  * Present research findings at professional conferences and military briefings, contributing to the knowledge base and fostering a culture of continuous improvement.
+* Research Project Assistant	SUNY Research Foundation ● 2019-2023
+  *	Conducted factor analyses to establish validity evidence for a scale measuring refugee job search obstacles
+  *	Performed research focused on gaining insight into refugee and immigrant job search obstacles and privacy concerns
+  *	Presented the results and implications of the research to stakeholders and academic audiences across the U.S.
+* Scientific and Regulatory Affairs Intern	Reynolds American, Inc. ● Summer 2020/2021
+  *	Performed research centered on gaining insight into how vapor product usage changes over time
+  *	Utilized SeeQ to establish and analyze complex longitudinal vaping topographical and demographic datasets
+  *	Presented the results and implications of my research to organizational leaders and C-suite executives
+* Student Assistant	New York State Department of Health ● 2018 - 2018 
+  *	Developed a questionnaire to measure obstacles preventing submitters from moving to paperless test submissions
+  *	Generated ideas to streamline the specimen testing process
+  *	Developed longitudinal reports that tracked test and requsition numbers 
+  *	Entered specimen, test, and demographic data into the clinical laboratories information management system
+  *	Standardized the language used between laboratories
+* Business Development Specialist	The Dieringer Research Group, Inc. ● 2017 - 2017
+  *	Prepared PowerPoint and Word research proposals that were aimed at addressing potential clients’ key initiatives
+  *	Researched and networked with outside consultants to estimate incidence, cost, and feasibility
+  *	Prepared sales and opportunity reports for the business development department, sales team, and CEO
+  *	Managed the new sales, opportunities, and contacts sections of the Customer Relations Management system
+  *	Prepared preliminary pricing quotes for new opportunities
 
- 
+##### Research Experience
+* Independent Doctoral Dissertation	Supervised by Jason Randall, Ph.D.
+  * Performed a comprehensive literature review that bridges Self-Determination Theory, Conservation of Resources Theory, and Effort-Recovery Theory to propose novel and consequential hypotheses
+  *	Developed and implemented a research study to examine how psychological need satisfaction at work and home interact to influence work recovery and well-being
+  *	Conducted a linear regression and a polynomial regression with response surface analysis to test hypotheses that proposed how psychological need satisfaction at work and home interact to influence work recovery and well-being
+* Student Training Evaluator	Supervised by Jason Randall, Ph.D.
+  *	Collaborated with the New York State Office for People with Development Disability to improve an Informed Decision-Making training program
+  *	Collected data from 37 employees who participated in an Informed Decision-Making training program and completed evaluation surveys before and after the training 
+  *	Evaluated trainees’ declarative knowledge, ability to recognize superior behaviors, self-efficacy, affective and utility reactions, and motivation to transfer
+  *	Co-authored an anterior Scope of Work Report and a posterior Technical Report, which summarized the research questions, project objectives, and the deliverables and reported on the results of the Informed Decision-Making training evaluation, respectively
+* Graduate Research Assistant	Supervised by Jason Randall, Ph.D.
+  *	Examined the factors that contribute to successful learning in an online, self-directed training setting 
+  *	Supervised up to 12 researcher assistants
+  *	Contributed to writing an Army Research Institute grant proposal focused on measuring informal learning in the workplace
+  *	Developed the theory and design for an original research study to examine the influence of mindfulness and sham mindfulness in a formal training environment
+* Graduate Research Assistant	Supervised by Ho Kwan Cheung, Ph.D.
+  *	Coded 1,159 articles about family responsibilities, perceived need, commitment, competence, and warmth, and career outcomes 
+  *	Developed a training to teach undergraduate research assistants how to search for journal articles
+  *	Developed the theory and design for an original research study to examine the influence of mindfulness in a diversity training
+* Independent Master’s Thesis	Supervised by Phan Hong, Ph.D.
+  *	Developed the theory and design for an original study to examine the effects of mindfulness meditation on affect, anxiety, attention, and mindfulness
+  *	Programmed the experiment using E-Prime 
+  *	Produced audio recordings for mindfulness meditation and control sessions
+* Graduate Research Assistant	Supervised by Lixin Jiang, Ph.D.
+  *	Coded 100 articles about safety climate by industry, level, and type of safety climate measure
+  *	Reported correlation coefficients and alpha levels for variables related to safety climate 
+* Graduate Research Assistant	Supervised by Phan Hong, Ph.D.
+  *	Examined the effects of mindfulness on affect, anxiety, stress, mindfulness, and grades in children aged 4-9
+  *	Conducted on-site mindfulness activities and trained children to be mindful
+  *	Presented information about the study, including the background and method, to teachers and parents 
+  *	Organized and managed the everyday functioning of four sites 
+  *	Supervised eight researcher assistants 
+* Graduate Research Assistant	Supervised by Phan Hong, Ph.D. 
+  *	Examined the effects of mindfulness on affect, anxiety, stress, mindfulness, and grades in college students
+  *	Produced audio recordings for a mindfulness session and a control condition session 
+  *	Organized a mindfulness and control session to be administered during the first ten minutes of each class period
+  *	Managed the everyday functioning of the study with ten graduate and undergraduate researcher assistants 
+* Graduate Research Assistant	Supervised by David Lishner, Ph.D.
+  *	Examined the effect that positive and negative outcomes have on the relationships between callous affect, happiness, and empathic concern 
+  *	Gathered data from participants by running them through a controlled situation that included deception 
 
-Instructor of Record – Industrial/Organizational Psychology (122 students)	University at Albany, SUNY ● Spring 2021 
-•	Responsibilities
-o	Designed all aspects of the course, including presentations, assignments, and assessments
-o	Assessed students’ learning through discussions, quizzes, papers, and exams
-o	Maintained live, weekly office hours and tutoring sessions upon request
-o	Led class using Blackboard, PowerPoint, and Zoom
-o	Provided consistent feedback to students related to each lesson taught
-o	Managed and tracked students’ attendance and participation
-•	Teaching Innovations
-o	Integrated a Spotlight on Science segment into the lectures to introduce the students to new research in the field of I/O Psychology, with an emphasis on researchers from marginalized backgrounds
-Instructor of Record – Industrial/Organizational Psychology (130 students)	University at Albany, SUNY ● Fall 2020 
-•	Responsibilities
-o	Implemented and administered predesigned presentations, assignments, and assessments
-o	Assessed students’ learning through discussions, quizzes, papers, and exams
-o	Maintained live, weekly office hours and tutoring sessions upon request
-o	Led class using Blackboard, PowerPoint, and Zoom
-o	Provided consistent feedback to students related to each lesson taught
-o	Managed and tracked students’ attendance and participation
-•	Teaching Innovations
-o	Synthesized PowerPoint, Zoom, and Blackboard to record and post lectures for students to follow along
-o	Incorporated TED Talks from world-renowned scientists to introduce cutting edge, groundbreaking ideas from accomplished researchers and science communicators
-Instructor of Record - Learning (22 students)	University at Albany, SUNY ● Summer 2019 
-•	Responsibilities
-o	Designed all aspects of the course, including presentations, assignments, and assessments
-o	Assessed students’ learning through discussions, projects, and formal assessments
-o	Maintained live, weekly office hours and tutoring sessions upon request
-o	Led class using Blackboard and PowerPoint
-o	Provided consistent feedback to students related to each lesson taught
-o	Managed and tracked students’ attendance and participation
-•	Teaching Innovations
-o	Synthesized textbook material with current events and real-life, relevant examples
-o	Scaffolded the students’ learning experience with a gradational research proposal 
-Service 
-Assistant Editor 	The Journal of Business and Psychology ● 2018 - 2017
-•	Reviewed each incoming manuscript for scope, plagiarism, contribution, APA style, quality of writing, and appropriateness of methods and analyses
-•	Identified the strengths and weaknesses of each manuscript
-•	Developed an initial decision about the next steps in processing the manuscript
-•	Exchanged thoughts with the Editor-in-Chief 
-•	Drafted decision letters, as needed
-Graduate Student Panelist	University at Albany, State University of New York ● 2018 - 2018
-•	Fielded questions from undergraduate students regarding graduate school and the application process
-•	Elucidated the field of Industrial/Organizational Psychology for undergraduate students
-•	Advised undergraduate students regarding graduate school in general and how to pursue a graduate degree in Industrial/Organizational Psychology
-McNair Scholar Mentor	University of Wisconsin Oshkosh McNair Scholarship Program ● 2015 - 2015
-•	Coached the McNair scholars in conducting statistical analyses using SPSS
-•	Assisted the McNair scholars in conducting thorough literature reviews
-Transition Success Analyst	University of Wisconsin Oshkosh Counseling Center ● 2014 - 2015
-•	Examined the success of students as they transitioned through their entire undergraduate education via the Making Achievement Possible Works survey
-•	Coded qualitative data into themes and categories 
-•	Designed reports to be presented to the Making Achievement Possible Works coordinator and the Counseling Center 
-Volunteer 	Winnebago Mental Health Institute ● 2011- 2012
-•	Empowered dozens of patients with mental illnesses by interacting with them through activities
-•	Organized fun activities for the patients with a social worker and a recreational therapist
-•	Utilized active listening in order to effectively aid in the progress of multiple patients
-•	Tutored one patient towards the successful completion of the General Education Development (GED) test
-Certifications
-Hogan’s Foundational Certification	Hogan Assessments
-Hogan’s Advanced Interpretation	Hogan Assessments
-Hogan’s Advanced Feedback Certification	Hogan Assessments
-IRB: Human Subject Research (Investigators, Advisors)	Human Research CITI Program
-Investigator and Key Research Personnel (Social and Behavioral Research)	Human Research CITI Program
-Biomedical Responsible Conduct of Research	Responsible Conduct of Research CITI Program
-Software Experience
-IBM Statistical Package for the Social Sciences (SPSS)	Advanced Proficiency
-Microsoft Excel	Advanced Proficiency
-Microsoft Word	Advanced Proficiency
-Microsoft PowerPoint	Advanced Proficiency
-Qualtrics	Advanced Proficiency
-R and RStudio	Advanced Proficiency
-MPlus	Intermediate Proficiency
-E-Prime	Intermediate Proficiency
-Statistics Courses
-Multivariate Statistical Methods (731)	A	
-Foundations of Behavioral Statistics (730)	A
-Statistics and Experimental Methods II (531)	A-
-Statistics and Experimental Methods I (530)	A-
-Elementary Psychological Statistics (203)	A
-Economics and Business Statistics (243)	A
+##### Teaching Experience
+* Instructor of Record – Industrial/Organizational Psychology (122 students)	University at Albany, SUNY ● Spring 2021 
+  * Responsibilities
+    * Designed all aspects of the course, including presentations, assignments, and assessments
+    * Assessed students’ learning through discussions, quizzes, papers, and exams
+    * Maintained live, weekly office hours and tutoring sessions upon request
+    * Led class using Blackboard, PowerPoint, and Zoom
+    * Provided consistent feedback to students related to each lesson taught
+    * Managed and tracked students’ attendance and participation
+  * Teaching Innovations
+    * Integrated a Spotlight on Science segment into the lectures to introduce the students to new research in the field of I/O Psychology, with an emphasis on researchers from marginalized backgrounds
+* Instructor of Record – Industrial/Organizational Psychology (130 students)	University at Albany, SUNY ● Fall 2020 
+  * Responsibilities
+    * Implemented and administered predesigned presentations, assignments, and assessments
+    * Assessed students’ learning through discussions, quizzes, papers, and exams
+    * Maintained live, weekly office hours and tutoring sessions upon request
+    * Led class using Blackboard, PowerPoint, and Zoom
+    * Provided consistent feedback to students related to each lesson taught
+    * Managed and tracked students’ attendance and participation
+  * Teaching Innovations
+    * Synthesized PowerPoint, Zoom, and Blackboard to record and post lectures for students to follow along
+    * Incorporated TED Talks from world-renowned scientists to introduce cutting edge, groundbreaking ideas from accomplished researchers and science communicators
+* Instructor of Record - Learning (22 students)	University at Albany, SUNY ● Summer 2019 
+  * Responsibilities
+    * Designed all aspects of the course, including presentations, assignments, and assessments
+    * Assessed students’ learning through discussions, projects, and formal assessments
+    * Maintained live, weekly office hours and tutoring sessions upon request
+    * Led class using Blackboard and PowerPoint
+    * Provided consistent feedback to students related to each lesson taught
+    * Managed and tracked students’ attendance and participation
+  * Teaching Innovations
+    * Synthesized textbook material with current events and real-life, relevant examples
+    * Scaffolded the students’ learning experience with a gradational research proposal 
+
+##### Service 
+* Assistant Editor 	The Journal of Business and Psychology ● 2018 - 2017
+  * Reviewed each incoming manuscript for scope, plagiarism, contribution, APA style, quality of writing, and appropriateness of methods and analyses
+  * Identified the strengths and weaknesses of each manuscript
+  * Developed an initial decision about the next steps in processing the manuscript
+  * Exchanged thoughts with the Editor-in-Chief 
+  * Drafted decision letters, as needed
+* Graduate Student Panelist	University at Albany, State University of New York ● 2018 - 2018
+  * Fielded questions from undergraduate students regarding graduate school and the application process
+  * Elucidated the field of Industrial/Organizational Psychology for undergraduate students
+  * Advised undergraduate students regarding graduate school in general and how to pursue a graduate degree in Industrial/Organizational Psychology
+* McNair Scholar Mentor	University of Wisconsin Oshkosh McNair Scholarship Program ● 2015 - 2015
+  * Coached the McNair scholars in conducting statistical analyses using SPSS
+  * Assisted the McNair scholars in conducting thorough literature reviews
+* Transition Success Analyst	University of Wisconsin Oshkosh Counseling Center ● 2014 - 2015
+  * Examined the success of students as they transitioned through their entire undergraduate education via the Making Achievement Possible Works survey
+  * Coded qualitative data into themes and categories 
+  * Designed reports to be presented to the Making Achievement Possible Works coordinator and the Counseling Center 
+* Volunteer 	Winnebago Mental Health Institute ● 2011- 2012
+  * Empowered dozens of patients with mental illnesses by interacting with them through activities
+  * Organized fun activities for the patients with a social worker and a recreational therapist
+  * Utilized active listening in order to effectively aid in the progress of multiple patients
+  * Tutored one patient towards the successful completion of the General Education Development (GED) test
+
+##### Certifications
+* Hogan’s Foundational Certification -	Hogan Assessments
+* Hogan’s Advanced Interpretation -	Hogan Assessments
+* Hogan’s Advanced Feedback Certification -	Hogan Assessments
+* IRB: Human Subject Research (Investigators, Advisors) -	Human Research CITI Program
+* Investigator and Key Research Personnel (Social and Behavioral Research) -	Human Research CITI Program
+* Biomedical Responsible Conduct of Research -	Responsible Conduct of Research CITI Program
+
+##### Software Experience
+* IBM Statistical Package for the Social Sciences (SPSS):	Advanced Proficiency
+* Microsoft Excel:	Advanced Proficiency
+* Microsoft Word:	Advanced Proficiency
+* Microsoft PowerPoint:	Advanced Proficiency
+* Qualtrics:	Advanced Proficiency
+* R and RStudio:	Advanced Proficiency
+* MPlus:	Intermediate Proficiency
+* E-Prime:	Intermediate Proficiency
+
+##### Statistics Courses
+* Multivariate Statistical Methods (731):	A	
+* Foundations of Behavioral Statistics (730):	A
+* Statistics and Experimental Methods II (531):	A-
+* Statistics and Experimental Methods I (530):	A-
+* Elementary Psychological Statistics (203):	A
+* Economics and Business Statistics (243):	A
 
 

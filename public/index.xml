@@ -20,14 +20,14 @@
       <link>http://localhost:4321/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/about/</guid>
-      <description>I grew up in the serene landscapes of Wisconsin, where the simplicity of rural life shaped my early years. However, my idyllic childhood was abruptly transformed by the profound tragedy of my sister&amp;rsquo;s death. This heart-wrenching loss left an indelible mark on my soul, casting a long shadow over my formative years. Struggling to navigate through the depths of grief and confusion, I found myself drifting aimlessly, burdened by the weight of my sorrow.</description>
+      <description>I grew up in the serene landscapes of Wisconsin, where the simplicity of rural life shaped my early years. However, my childhood was abruptly transformed by the profound tragedy of my sister&amp;rsquo;s death. This heart-wrenching loss left an indelible mark on my soul, casting a long shadow over my formative years. Struggling to navigate through the depths of grief and confusion, I found myself drifting aimlessly, burdened by the weight of my sorrow.</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
       <link>http://localhost:4321/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/cv/</guid>
-      <description>Professional Summary As a Research Psychologist at the Naval Submarine Medical Research Laboratory and a Doctoral Candidate in the Industrial-Organizational Psychology PhD program at the University at Albany, State University of New York, my work focuses on training evaluation, assessment development, leadership assessment, and work motivation. I currently work on applied projects to implement a leadership development program, evaluate and build person-environment fit, and develop and validate core leadership competencies. I am currently researching the influence that a mindfulness practice has in a formal training setting, how psychological need satisfaction at home and work interaction to influence work recovery, and the causal role that autonomous motivation plays in the association between psychological need satisfaction and burnout.</description>
+      <description>Professional Summary As a Research Psychologist at the Naval Submarine Medical Research Laboratory, I specialize in training evaluation, assessment development and validation, leadership assessment and development, and work motivation. My current role involves leading applied projects that implement leadership development programs, evaluate and enhance person-environment fit, and develop and validate assessments of core leadership competencies. My research focuses on the intersection of psychological need satisfaction at home and work, exploring how this interaction influences work recovery, well-being, motivation, and burnout.</description>
     </item>
     <item>
       <title>Hello R Markdown</title>

@@ -12,9 +12,9 @@
   </url><url>
     <loc>http://localhost:4321/home/clients/</loc>
   </url><url>
-    <loc>http://localhost:4321/cv/</loc>
-  </url><url>
     <loc>http://localhost:4321/about/</loc>
+  </url><url>
+    <loc>http://localhost:4321/cv/</loc>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>

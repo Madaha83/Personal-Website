@@ -80,7 +80,7 @@ params:
       network: email
       sharethis: yes
       title: email
-      url: matthew.d.hanson@outlook.com
+      url: mailto:matthew.d.hanson@outlook.com
   year: 2024
 menu:
   main:
