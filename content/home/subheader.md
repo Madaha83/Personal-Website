@@ -2,5 +2,5 @@
 title: ""
 type: subheader
 ---
-Welcome to my personal website. Here, you'll find a detailed account of my journey, from my early experiences to my current professional endeavors. My curriculum vitae is available for you to explore, highlighting my skills, accomplishments, and the various roles I've undertaken. This site also serves as a hub for connecting with me. You can find links to my social media profiles where I share insights and updates, as well as a direct link to email me for any inquiries or collaboration opportunities. 
+Welcome to my personal website! Discover my journey from past experiences to present-day achievements. Explore my curriculum vitae to see my skills, accomplishments, and diverse roles. Connect with me through my social media profiles for insights and updates, or reach out directly via email for inquiries and collaboration opportunities.
 
