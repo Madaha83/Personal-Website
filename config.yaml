@@ -1,6 +1,6 @@
 baseURL: https://matthewdhanson.com/
 languageCode: en
-title: Initio - Free, multipurpose html5 template by GetTemplate
+title: Personal Website of Matthew D. Hanson
 theme: hugo-initio
 params:
   DateForm: January 2, 2006
