@@ -5,8 +5,7 @@ type: about
 weight: 10
 ---
 ##### Professional Summary
-As a Research Psychologist at the Naval Submarine Medical Research Laboratory, I specialize in training evaluation, assessment development and validation, leadership assessment and development, and work motivation. My current role involves leading applied projects that implement leadership development programs, evaluate and enhance person-environment fit, and develop and validate assessments of core leadership competencies. My research focuses on the intersection of psychological need satisfaction at home and work, exploring how this interaction influences work recovery, well-being, motivation, and burnout. Through my work, I aim to apply theoretically driven, empirically tested, and data-informed practices to advance the readiness and effectiveness of the undersea warfighter community.
-
+As an Industrial-Organizational Psychologist, I specialize in training evaluation, assessment development and validation, leadership assessment and development, occupational health, and work motivation. As a Research Psychologist at the Center for Army Leadership, I focus on advancing leadership assessment and development by overseeing and contributing to multiple research initiatives. My work centers on ensuring the validity, reliability, and fairness of leadership assessments while maintaining alignment with Army regulations and professional standards. With a background in both quantitative and qualitative research methods, I provide evidence-based insights that help shape leadership development strategies. I also collaborate on creating tools designed to foster self-awareness and professional growth among leaders. My role involves communicating complex research findings to stakeholders, offering actionable recommendations that drive improvements in leadership practices. In my previous role as a Research Psychologist with Leidos working for the Naval Submarine Medical Research Laboratory, I led applied and research projects that involved implementing leadership development programs, evaluating and enhancing psychological readiness, and developing and validating assessments of core leadership competencies within specialized operational communities (e.g., submarine and nuclear field duty). My research focused on the intersection of psychological need satisfaction at home and work, exploring how this interaction influences work recovery, well-being, motivation, and burnout. Through my work, I applied theoretically driven, empirically tested, and data-informed practices to advance the readiness and effectiveness of the undersea warfighter community. 
 ##### Education
 * University at Albany, State University of New York
   * Doctor of Philosophy	Industrial-Organizational Psychology ● 2023
@@ -97,12 +96,18 @@ Miller, T., Pionk, T., Kelso, S., Steinert, S., Hanson, M. D., Lishner, D. A., H
   * Wrote and gave an engaging presentation on the results of the investigation to a multidisciplinary committee of experts
 
 ##### Professional Experience
-* Research Psychologist – Industrial-Organizational Psychologist	U.S. Naval Submarine Force (via Leidos) ● Fall 2021-Present
-  * Lead the development and operation of targeted, rigorous, and innovative research to investigate and evaluate ways in which to predict and improve upon important personnel and operational outcomes.
-  * Craft comprehensive, compelling, coherent research write-ups to effectively convey objectives, methods, and outcomes.
-  * Apply evidence-based I-O psychology principles to create, validate, and implement psychological assessments that measure critical KSAOs, competencies, and leadership capabilities to address the unique requirements of the U.S. Submarine Force.
-  * Utilize statistical software (e.g., SPSS, R) to analyze complex assessment data, identifying trends and providing actionable insights and recommendations to support decision-making and policy development.
-  * Present research findings at professional conferences and military briefings, contributing to the knowledge base and fostering a culture of continuous improvement.
+* Research Psychologist	U.S. Army Center for Army Leadership ● Fall 2024-Present
+  * Lead and support multiple research projects/programs focused on leadership assessment and leader development
+  * Conduct research on the development and validation of leadership assessments to ensure fairness, validity, reliability, and compliance with professional testing standards and Army regulations
+  * Perform both quantitative and qualitative data analysis to provide evidence-based recommendations for assessment improvements and feedback to Army leaders and stakeholders
+  * Assist in the creation and implementation of leader development tools to promote self-awareness and self-development among leaders
+* Research Psychologist – Industrial-Organizational Psychologist	U.S. Naval Submarine Force (via Leidos) ● Fall 2021-Fall 2024
+  * Led the development and operation of targeted, rigorous, and innovative research to investigate and evaluate ways in which to predict and improve upon important personnel and operational outcomes
+  * Crafted comprehensive, compelling, coherent research write-ups to effectively convey objectives, methods, and outcomes
+  * Applied evidence-based I-O psychology principles to create, validate, and implement psychological assessments that measure critical attributes, competencies, and leadership capabilities to address the unique requirements of the U.S. Submarine Force
+  * Utilized statistical software (e.g., SPSS, R) to analyze complex assessment data, identifying trends and providing actionable insights and recommendations to support decision-making and policy development
+  * Presented research findings at professional conferences and military briefings, contributing to the knowledge base and fostering a culture of continuous improvement
+  * Provided psychological readiness feedback reports to approximately 2,600 enlisted and 100 officer students at Naval Submarine School annually
 * Research Project Assistant	SUNY Research Foundation ● 2019-2023
   *	Conducted factor analyses to establish validity evidence for a scale measuring refugee job search obstacles
   *	Performed research focused on gaining insight into refugee and immigrant job search obstacles and privacy concerns
